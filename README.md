@@ -3,7 +3,7 @@
 ## 📜 Description
 Simple text encoder that can use the ROT13 and Vigenère ciphers
 
-## 🧑🏽‍💻 Development
+## 💻 Development
 Created using Java and JFrame
 
 ## 🔨 Tools
